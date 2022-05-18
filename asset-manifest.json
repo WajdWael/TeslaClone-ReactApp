@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TeslaClone-ReactApp.git/static/css/main.948ee2f6.css",
+    "main.js": "/TeslaClone-ReactApp.git/static/js/main.cc7ba2f2.js",
+    "static/js/787.09fbba3b.chunk.js": "/TeslaClone-ReactApp.git/static/js/787.09fbba3b.chunk.js",
+    "index.html": "/TeslaClone-ReactApp.git/index.html",
+    "main.948ee2f6.css.map": "/TeslaClone-ReactApp.git/static/css/main.948ee2f6.css.map",
+    "main.cc7ba2f2.js.map": "/TeslaClone-ReactApp.git/static/js/main.cc7ba2f2.js.map",
+    "787.09fbba3b.chunk.js.map": "/TeslaClone-ReactApp.git/static/js/787.09fbba3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.948ee2f6.css",
+    "static/js/main.cc7ba2f2.js"
+  ]
+}
